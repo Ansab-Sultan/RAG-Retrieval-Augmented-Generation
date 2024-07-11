@@ -1,3 +1,5 @@
 # RAG-Retrieval-Augmented-Generation-
 This Repository contains multiple RAG projects.
-Each projects is explained in detail
+Each project is explained in detail.
+
+Check the folders for further information.
