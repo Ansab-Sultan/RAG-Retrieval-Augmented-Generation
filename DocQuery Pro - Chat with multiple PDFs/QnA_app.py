@@ -65,7 +65,7 @@ def query_rag(query_text: str, session_id: str):
         "response": response.content,
         "sources": sources
     }
-    print(prompt)
+    # print(prompt)
     
     # Save chat history
     save_chat_history(session_id, query_text, response.content)
