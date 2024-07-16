@@ -4,8 +4,7 @@ DocQuery Pro is a Python application designed to facilitate querying and interac
 
 ## Description
 
-This project integrates document processing, embedding generation, and a querying interface to provide a seamless experience for extracting information from PDF files.
-
+This project integrates document processing, embedding generation, and a querying interface to provide a seamless experience for extracting information from PDF files. It also supports maintaining long-term history of chats, allowing users to continue conversations from previous sessions using the same session ID.
 ## Files
 
 ### 1. `get_embedding_function.py`
